@@ -1,0 +1,5 @@
+kind: !freestyle
+builder:
+  kind: !shell
+  # Print a greeting.
+  command: echo Hello World
